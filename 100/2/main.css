@@ -1,0 +1,8 @@
+.box{
+	width: 30%;
+	height: 200px;
+	background-color: cyan;
+	transition:all 1s;
+}
+.box:hover{
+	transform:rotate(-90deg);}
